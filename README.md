@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 > **High-fidelity evaluation harness, automated JSON schema verifier, and multi-turn adversarial red-teaming engine for frontier LLMs (Claude, GPT-4, Codex, GLM).**
-> Built by **[Faisal Sharif](https://linkedin.com/in/mohammedalfaisal-sharif/)** based on production LLM alignment and post-training (SFT) workflows.
+> Built by **[Faisal Sharif](https://linkedin.com/in/mohammedalfaisal-sharif/)** based on production AI Training & Evaluation and post-training (SFT) workflows.
 
 ---
 
@@ -55,7 +55,7 @@ python evaluator.py --run-eval --dataset scenarios/business_cases.json
 
 ```text
 ======================================================================
-  AGENTIC LLM EVALUATION REPORT — FAISAL SHARIF ALIGNMENT HARNESS
+  AGENTIC LLM EVALUATION REPORT — FAISAL SHARIF AI TRAINING & EVALUATION HARNESS
 ======================================================================
 [INFO] Loading Golden Solution Schema: schemas/business_analysis.json
 [INFO] Verifying 20 Frontier Agent Executions...
